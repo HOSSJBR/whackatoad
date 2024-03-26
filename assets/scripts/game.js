@@ -56,6 +56,7 @@ if (gameOverBox) {
 if (userName) {
   userName.addEventListener("input", function () {
     savedNameDisplay.textContent = userName.value;
+    difficultyMain.classList.add("hidden");
   });
 }
 if (saveButton) {
@@ -120,7 +121,7 @@ const hideDifficulty = localStorage.getItem("difficultyMain");
 if (hideDifficulty) {
   difficultyMain.classList.add("hidden");
 }
-
+  difficultyMain.classList.add("hidden");
 // Hide Buttons
 function hidDifficultyButtons() {
   difficultyMain.classList.add("hidden");
