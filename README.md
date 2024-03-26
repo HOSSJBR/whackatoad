@@ -2,7 +2,7 @@
 
 ![Weatherwiseimg](https://github.com/HOSSJBR/whackatoad/blob/main/assets/images/Screenshot%202024-03-19%20154555.png)
 
-[Live link to website](https://whackatoad.netlify.app)
+[Live link to website](https://whackatoad.netlify.app/)
 
 ## Features
 
