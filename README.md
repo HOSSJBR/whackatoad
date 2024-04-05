@@ -56,10 +56,4 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 To explore the weather application and access whack a toad, simply visit the hosted application link provided in the repository description. If you're interested in examining the source code or contributing to the project, clone the repository to your local machine and run the html file 
 
-### Project Status
-
-This project is actively maintained and updated to provide accurate and reliable weather forecasts to users worldwide. We strive to improve the application continuously and welcome feedback from our users and contributors.
-
-Thank you for visiting our repository and using our whack a toad application!
-
 <!-- ******************************************************************************* -->
